@@ -1,0 +1,9 @@
+#File lists all Python packages required to run the project
+#Install them using: pip install -r projectrequirements.txt
+streamlit
+pandas
+numpy
+opencv-python
+mediapipe
+joblib
+dlib 
